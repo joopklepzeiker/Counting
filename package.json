@@ -1,0 +1,16 @@
+{
+  "name": "counting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "sequelize": "^5.9.2",
+    "sqlite3": "^4.0.9"
+  }
+}
