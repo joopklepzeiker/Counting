@@ -15,3 +15,6 @@ npm i discord.js sequelize sqlite3
 
 Step 4:
 Type node index.js in your terminal/cmd and your ready to go!
+
+
+If you found a bugg or need help with something contact me through Discord (Kevin#1868)
